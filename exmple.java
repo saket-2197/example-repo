@@ -7,6 +7,9 @@ public class Example {
 // changed the code-1
 // changes BBBBBB
 
-
+//Resolving the BUG -102
+        publi ststic void setInfo(){
+            System.out.println("performing chaanges for BUG -102 ");
+        }
     }
 }
