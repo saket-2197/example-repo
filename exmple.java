@@ -1,9 +1,12 @@
-public class Example{
-	public static void main(String[] args) {
-		System.out.println("deom java commit");
+public class Example {
+    public static void main(String[] args) {
+        System.out.println("deom java commit");
 
-	System.out.println("This is commited by saket-2 colloberator");
+        System.out.println("This is commited by saket-2 colloberator");
 
-	//changes BBBBBB
-	}
+// changed the code-1
+// changes BBBBBB
+
+
+    }
 }
